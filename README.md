@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="navbar">
-            <h1>Your Name</h1>
+            <h1>STENVALL</h1>
             <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
@@ -22,11 +22,7 @@
     </header>
 
     <section id="about" class="section">
-        <h2>About Me</h2>
-        <p>Welcome to my e-portfolio! I'm a web developer passionate about building interactive websites and applications. I have experience in HTML, CSS, JavaScript, and various web technologies. Feel free to explore my projects and skills below!</p>
-        <img src="profile.jpg" alt="Your Photo">
-    </section>
-
+        <h2>Good at Swimming</h2>
     <section id="skills" class="section">
         <h2>Skills</h2>
         <ul>
@@ -40,19 +36,8 @@
     </section>
 
     <section id="projects" class="section">
-        <h2>My Projects</h2>
+        <h2>Researches </h2>
         <div class="project-card">
-            <h3>Project 1: Portfolio Website</h3>
-            <p>A personal portfolio website built with HTML, CSS, and JavaScript to showcase my work and skills.</p>
-            <a href="https://github.com/yourusername/portfolio" target="_blank">View Project</a>
-        </div>
-        <div class="project-card">
-            <h3>Project 2: Task Manager App</h3>
-            <p>A task management app built with React.js and Firebase for real-time data storage.</p>
-            <a href="https://github.com/yourusername/task-manager" target="_blank">View Project</a>
-        </div>
-    </section>
-
     <section id="contact" class="section">
         <h2>Contact</h2>
         <p>If you'd like to get in touch, feel free to send me a message!</p>
